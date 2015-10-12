@@ -1,0 +1,4 @@
+name: Plugin Tracker
+main: com.gabrielsimmer.tracker.Main
+version: 1.0
+commands:
